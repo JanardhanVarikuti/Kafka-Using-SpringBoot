@@ -1,7 +1,7 @@
 # Kafka-Using-SpringBoot
 Simple Kafka Consumer demo using Spring Boot deployed on Weblogic12c server
 
-This is a simple kafka consumer class which is listening to a kakfa topic for the data. The application is built using spring boot and deployed the .jar file on the wevlogic 12c server.
+This is a simple kafka consumer class which is listening to a kakfa topic(located on a different server) for the data. The application is built using spring boot and deployed the .jar file on the wevlogic 12c server.
 
 Please follow the below steps to built and deploy the application :
 
