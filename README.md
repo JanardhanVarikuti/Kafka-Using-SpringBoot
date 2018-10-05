@@ -13,7 +13,7 @@ Please follow the below steps to built and deploy the application :
  
     Step4> Transfer the .jar to any folder location on the weblogic 12c server
  
-    Step5> Execute the following command :
+    Step5> Execute the following command from the folder location where the .jar is copied :
            java -jar <name of your jar>.jar 
   
     Step6> Execute the "kafka console producer" from the kafka installed server
